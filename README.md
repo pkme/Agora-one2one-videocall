@@ -1,24 +1,31 @@
-# Agora-one2one-videocall 基于web的1对1视频通话
+# agora-one2one-videocall 
 
-## 使用方法
+Web based one-to-one video call.
 
-### 步骤1
-基于声网（Agora）的免费视频通话SDK实现，请先注册Agora的账号并获取自己的appID等。
+This project is based on RTC, the free video call SDK of [agora](www.agora.io).
 
-### 步骤2
+If you want to try this project, please register agora's free account first.
 
-在index.php文件中找到以下代码并替换：
+## Usage
+
+### step 1
+Register agora's account and obtain your own App ID etc.
+
+### step 2
+
+Find the following code in **index.php** file and replace by your own:
 
 ```php
 $appID = "替换为自己的";
 $appCertificate = "替换为自己的";
 $channelName = "替换为自己的";
 ```
-### 步骤3
+### step 3
 
-上传所有文件到自己的服务器中，请确保域名可以基于**https**访问。
+Upload all files to your own server. Make sure your website supports **Https**.
 
-### 步骤4
-主页为index.php
+### step 4
 
-然后enjoy~
+Visit index.php using any browser, e.g. Chrome, Edge, Safari.
+
+Enjoy~
