@@ -1,4 +1,4 @@
-# agora-one2one-videocall 
+# Agora-one2one-videocall 
 
 Web based one-to-one video call.
 
@@ -16,13 +16,13 @@ Register agora's account and obtain your own App ID etc.
 Find the following code in **index.php** file and replace by your own:
 
 ```php
-$appID = "替换为自己的";
-$appCertificate = "替换为自己的";
-$channelName = "替换为自己的";
+$appID = "replace yours";
+$appCertificate = "replace yours";
+$channelName = "replace yours";
 ```
 ### step 3
 
-Upload all files to your own server. Make sure your website supports **Https**.
+Upload all files to your own server. Make sure your website supports **https**.
 
 ### step 4
 
