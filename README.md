@@ -11,7 +11,7 @@ If you want to try this project, please register agora's free account first.
 ## 🚀 Quickstart
 
 #### 1. Register agora's account and obtain your own App ID etc.
-#### 2. Find the following code in **index.php** file and replace by your own:
+#### 2. Find the following code in **index.php** file and replace it with yours:
 
 ```php
 $appID = "replace it with yours";
