@@ -13,9 +13,9 @@
 <?php
 include("./RtcTokenBuilder.php");
 
-$appID = "替换为自己的";
-$appCertificate = "替换为自己的";
-$channelName = "替换为自己的";
+$appID = "replace it with yours";
+$appCertificate = "replace it with yours";
+$channelName = "replace it with yours";
 $uid = 0;
 $uidStr = "0";
 $role = RtcTokenBuilder::RoleAttendee;
