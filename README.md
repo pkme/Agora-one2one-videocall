@@ -16,9 +16,9 @@ Register agora's account and obtain your own App ID etc.
 Find the following code in **index.php** file and replace by your own:
 
 ```php
-$appID = "replace yours";
-$appCertificate = "replace yours";
-$channelName = "replace yours";
+$appID = "replace it with yours";
+$appCertificate = "replace it with yours";
+$channelName = "replace it with yours";
 ```
 ### step 3
 
