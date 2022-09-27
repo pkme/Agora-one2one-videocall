@@ -23,9 +23,3 @@ $channelName = "replace it with yours";
 #### 4. Visit index.php using any browser, e.g. Chrome, Edge, Safari.
 
 Enjoy~
-
-## 📸 Screenshots
-
-![test](https://z3.ax1x.com/2021/11/24/oCa2TA.jpg)
-
-![video call](https://z3.ax1x.com/2021/11/24/oCawJx.jpg)
